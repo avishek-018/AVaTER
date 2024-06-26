@@ -1,0 +1,6 @@
+joy
+anger
+fear
+sadness
+surprise
+neutral
